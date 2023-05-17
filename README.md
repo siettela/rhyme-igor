@@ -5,8 +5,10 @@ Rhyme-Igor (Raman Hyperspectral image Management Environment for Igor Pro) provi
 Github Repository: https://github.com/siettela/rhyme-igor
 
 ## **Procedure description**
+- RHYME_MAIN.ipf (ver1.0.0): This procedure file provides a panel with various functions for analyzing 4D Raman imaging.
+> Currently this procedure is closed due to some issues.
 
-- RHYME_MVA.ipf (ver1.0.0): This procedure performs multivariate analysis (PCA, Clustering, MCR-ALS, etc.) on Igor pro.
+- RHYME_MVA.ipf (ver1.0.0): This procedure performs multivariate analysis (PCA, Clustering, MCR-ALS, etc.) on Igor pro.This is an add-on, but it also works on its own. 
 > Currently only PCA is implemented. There are several features under development and some comments are noted.
 
 
