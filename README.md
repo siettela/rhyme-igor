@@ -7,6 +7,8 @@ Github Repository: https://github.com/siettela/rhyme-igor
 ## **Procedure description**
 
 - RHYME_MVA.ipf (ver1.0.0): This procedure performs multivariate analysis (PCA, Clustering, MCR-ALS, etc.) on Igor pro.
+> Currently only PCA is implemented. There are several features under development and some comments are noted.
+
 
 
 ## **Operation confirmation**
